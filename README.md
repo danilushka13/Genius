@@ -1,2 +1,2 @@
 # Genius
-Today I learn git, tommorow will learn millions
+Today I learn git, tommorow will earn millions
